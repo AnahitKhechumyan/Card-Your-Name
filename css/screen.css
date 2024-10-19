@@ -1,0 +1,17 @@
+@media screen and (max-width: 1250px) {
+    .main{
+      height: 100vh;
+    }
+}
+@media screen and (max-width: 1180px) {
+    .circle{
+       margin-left: 20px;
+    }
+}
+@media screen and (max-width: 980px) {
+     .discription{
+        flex-direction: column;
+        align-items: center;
+     }
+}
+
